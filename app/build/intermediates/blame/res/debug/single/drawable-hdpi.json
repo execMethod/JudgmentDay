@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/neighborcell/Dev/JudgmentDay/app/build/intermediates/res/merged/debug/drawable-hdpi/spin_white_src.png",
+        "source": "/Users/neighborcell/Dev/JudgmentDay/app/src/main/res/drawable-hdpi/spin_white_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/JudgmentDay/app/build/intermediates/res/merged/debug/drawable-hdpi/weather_blue_src.png",
+        "source": "/Users/neighborcell/Dev/JudgmentDay/app/src/main/res/drawable-hdpi/weather_blue_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/JudgmentDay/app/build/intermediates/res/merged/debug/drawable-hdpi/bus_blue_src.png",
+        "source": "/Users/neighborcell/Dev/JudgmentDay/app/src/main/res/drawable-hdpi/bus_blue_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/JudgmentDay/app/build/intermediates/res/merged/debug/drawable-hdpi/plus_white_src.png",
+        "source": "/Users/neighborcell/Dev/JudgmentDay/app/src/main/res/drawable-hdpi/plus_white_src.png"
+    },
+    {
+        "merged": "/Users/neighborcell/Dev/JudgmentDay/app/build/intermediates/res/merged/debug/drawable-hdpi/traffic_blue_src.png",
+        "source": "/Users/neighborcell/Dev/JudgmentDay/app/src/main/res/drawable-hdpi/traffic_blue_src.png"
+    }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="theme5">#00B9BC</color>
+  <color name="theme4">#00CED1</color>
+  <color name="theme3">#8DB0F4</color>
+  <color name="theme2">#BED7F9</color>
+  <color name="theme1">#FFEBD2</color>
+  <color name="theme0">#FFFFF0</color>
+  
+  <color name="black">#000000</color>
+  <color name="grey4">#333333</color>
+  <color name="grey3">#757575</color>
+  <color name="grey2">#666666</color>
+  <color name="grey1">#CCCCCC</color>
+  <color name="white">#FFFFFF</color>
+  
+  <color name="none">#00000000</color>
+  
+  <!-- Others -->
+  <color name="green600">#43A047</color>
+
+</resources>
+

@@ -1,0 +1,15 @@
+<RelativeLayout 
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_margin="0dp"
+>
+  <ListView
+    android:id="@id/android:list"
+    android:background="@drawable/bg"
+    android:divider="@android:drawable/divider_horizontal_bright"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+  />
+</RelativeLayout>
+
